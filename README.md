@@ -9,4 +9,3 @@ This will Produce 2 folders `/bin` and `/out`. `/bin` contains binary files that
 `/out` contains a (floppy disk) image file `bootloader.flp` which we can run on an emulator.
 
 Tested on QEMU, Ubuntu 21.04.
-
